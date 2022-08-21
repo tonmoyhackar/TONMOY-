@@ -388,16 +388,12 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""
-\x1b[1;92m ▄▄▄█████▓ ▒█████   ███▄    █  ███▄ ▄███▓ ▒█████ ▓██   ██▓
-\x1b[1;92m ▓  ██▒ ▓▒▒██▒  ██▒ ██ ▀█   █ ▓██▒▀█▀ ██▒▒██▒  ██▒▒██  ██▒
-\x1b[1;92m ▒ ▓██░ ▒░▒██░  ██▒▓██  ▀█ ██▒▓██    ▓██░▒██░  ██▒ ▒██ ██░
-\x1b[1;92m ░ ▓██▓ ░ ▒██   ██░▓██▒  ▐▌██▒▒██    ▒██ ▒██   ██░ ░ ▐██▓░
-\x1b[1;92m   ▒██▒ ░ ░ ████▓▒░▒██░   ▓██░▒██▒   ░██▒░ ████▓▒░ ░ ██▒▓░
-\x1b[1;92m   ▒ ░░   ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ ░ ▒░   ░  ░░ ▒░▒░▒░   ██▒▒▒ 
-\x1b[1;92m     ░      ░ ▒ ▒░ ░ ░░   ░ ▒░░  ░      ░  ░ ▒ ▒░ ▓██ ░▒░ 
-\x1b[1;92m  ░      ░ ░ ░ ▒     ░   ░ ░ ░      ░   ░ ░ ░ ▒  ▒ ▒ ░░  
-\x1b[1;92m             ░ ░           ░        ░       ░ ░  ░ ░     
-\x1b[1;92m                                                 ░ ░     
+\x1b[1;92m ████████╗ ██████╗ ███╗   ██╗███╗   ███╗ ██████╗ ██╗   ██╗
+\x1b[1;92m ╚══██╔══╝██╔═══██╗████╗  ██║████╗ ████║██╔═══██╗╚██╗ ██╔╝
+\x1b[1;92m    ██║   ██║   ██║██╔██╗ ██║██╔████╔██║██║   ██║ ╚████╔╝ 
+\x1b[1;92m    ██║   ██║   ██║██║╚██╗██║██║╚██╔╝██║██║   ██║  ╚██╔╝  
+\x1b[1;92m      ██║   ╚██████╔╝██║ ╚████║██║ ╚═╝ ██║╚██████╔╝   ██║   
+\x1b[1;92m      ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝    ╚═╝   
 
    \x1b[1;92m╔═════════════════════════════╗
    \x1b[1;92m║➣TOOL NAME : { TONMOY THECH}                    ║
@@ -453,7 +449,7 @@ class Main:
 			
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n\033[1;32m [!] USE (123456) FOR IDZ\033[1;37m ")
+				print("\n\033[1;32m [!] USE (NAHID FUCK) FOR IDZ\033[1;37m ")
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(G,Y))
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(B))
@@ -834,7 +830,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ T4ON4MOY ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ TONMOY ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -880,7 +876,7 @@ class Main:
 			
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n\033[1;32m [!] USE (123456) FOR IDZ\033[1;37m ")
+				print("\n\033[1;32m [!] USE (NAHID FUCK) FOR IDZ\033[1;37m ")
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(G,Y))
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(B))
@@ -1261,7 +1257,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ T4ON4MOY ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ TONMOY ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
